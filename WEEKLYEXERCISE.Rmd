@@ -1,0 +1,22 @@
+---
+title: "WEEKLYEXERCISE"
+author: "Vanessa Perez"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### What is civic technology, and how can Smart Cities benefit from it?
+
+Civic technology is a manner in which citizens in an area can connect with the government. It works mutually. The technology used by citizens can help them connect with the government, easing their access to services. It can also help the government connect with citizens. For example, an application can be created by the government in order for them to receive access to different public goods. In essence, civic tech is trying to make the lives of citizens easier by allowing them to access things that have been out of reach or by simplifying the process and making it more efficient as well.
+
+Civic technology in general helps with transparency within the public and government. It allows the public to be able to interact with the government in an easier manner than what it used to be. It also may be more efficient than old ways of interaction. An example of what has become more efficient to do is renewing a driver's license. It can now be done online, or instead of going to the DMV, time can be saved by going to a location with a SOS kiosk.
+
+Smart cities can benefit from civic technology. New applications can be created for residents of cities in order to ease the process of different issues they may have. They would be more easily able to receive participation and feedback. For example, "Chicago had a civic user testing group where they were able to get feedback and see their resident needs. This group feedback led to a more responsive 311 app and new GIS feature within"(Goldsmith,2023). The creation of new government technology can create new ways for the public to interact with the government, which will help with the quality of life.
+
+Goldsmith, S. (2023, September). Chicago uses tech, resident input to improve services. *Government Technology*. [https://www.govtech.com/gov-experience/chicago-uses-tech-resident-input-to-improve-services](https://www.govtech.com/gov-experience/chicago-uses-tech-resident-input-to-improve-services?utm_source=chatgpt.com)
+
+Wood, C. (2016, August 15). *What is civic tech?* Government Technology. [https://www.govtech.com/civic/What-is-Civic-Tech.html](https://www.govtech.com/civic/What-is-Civic-Tech.html?utm_source=chatgpt.com)
