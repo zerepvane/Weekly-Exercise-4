@@ -37,3 +37,4 @@ total_medals_by_year <- Olympics %>%
     TotalByYear = sum(gold + silver + bronze, na.rm = TRUE)
   )
 print(total_medals_by_year)
+
